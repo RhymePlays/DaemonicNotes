@@ -9,3 +9,4 @@
 - QR ID Items
 - Audio Recording
 - ? AI Note taking
+- People profile for better remembering a person. With ability to quickly add notes
